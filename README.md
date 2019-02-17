@@ -8,22 +8,25 @@ I made this many years ago (now 20, and god, it keeps counting...) to be able to
 Here is a translation for the output while the song is being played:
 
 TRANSLATION:  
-A file neve﻿ - filename  
-Sávok száma - number of tracks 
-Időegység - time unit - the number shows a fraction of a quart, i dont know exactly now, what it is.  
-Esemény - Event  
-Eltelendő időegység - Time units to be gone  
-Eltelt idő - Time elapsed (in sec)  
-Ütemelőjegyzés - Metrum  
-A metronóm beosztása MIDI-órában - metronome unit in MIDI-hours (no idea now, what it is)  
-A zenei negyedet X harminckettedre lehet osztani - a quart can be split to X 1/32 note  
-Előjegyzés - major or minor  
-dúr - major  
-moll - minor  
-Tempóváltoztatás - tempo change  
-negyed - quart  
-Ismeretlen típusú metaüzenet - unknown meta code  
-száma: - number  
-Note on - currently played note  
-billentyű - key (on keyboard)  
-ütéserősség - keypress intensity  
+
+Hungarian | meaning
+--------- | -------
+A file neve﻿ | filename  
+Sávok száma | number of tracks 
+Időegység | time unit - the number shows a fraction of a quart, i dont know exactly now, what it is.  
+Esemény | Event  
+Eltelendő időegység | Time units to be gone  
+Eltelt idő | Time elapsed (in sec)  
+Ütemelőjegyzés | Metrum  
+A metronóm beosztása MIDI-órában | metronome unit in MIDI-hours (no idea now, what it is)  
+A zenei negyedet X harminckettedre lehet osztani | a quart can be split to X 1/32 note  
+Előjegyzés | major or minor  
+dúr | major  
+moll | minor  
+Tempóváltoztatás | tempo change  
+negyed | quart  
+Ismeretlen típusú metaüzenet | unknown meta code  
+száma: | number  
+Note on | currently played note  
+billentyű | key (on keyboard)  
+ütéserősség | keypress intensity  
